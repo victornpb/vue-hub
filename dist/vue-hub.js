@@ -1,5 +1,5 @@
 /*!
-  * vue-hub v0.0.0 - A Vue plugin for managing and spawning views detached from the vue-router
+  * vue-hub v0.0.1 - A Vue plugin for managing and spawning views detached from the vue-router
   * (c) 2021 Victornpb
   * @license MIT
   */
