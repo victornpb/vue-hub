@@ -1,5 +1,5 @@
 {
-  "name": "vue-hub",
+  "name": "vue-hub-plugin",
   "version": "0.0.1",
   "description": "A Vue plugin for managing and spawning views detached from the vue-router",
   "author": "Victornpb",
