@@ -1,0 +1,1 @@
+# A Vue plugin for managing and spawning views detached from the vue-router
